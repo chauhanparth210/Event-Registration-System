@@ -64,8 +64,6 @@ yarn client
 
 1.0.0
 
-### [Live Demo](https://techstack-webapp.netlify.app/)
-
 ### License
 
 This project is licensed under the MIT License
