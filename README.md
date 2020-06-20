@@ -67,8 +67,3 @@ yarn client
 ### License
 
 This project is licensed under the MIT License
-
-### Team name : THE_VETERAN
-### Team member : 1
-### Name : Parth Chauhan
-### Email : 00chauhanparth@gmail.com
