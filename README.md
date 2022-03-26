@@ -1,4 +1,4 @@
-# StackHack Event Registration System
+# Event Registration System
 
 This web app  is created with the help of MERN Stack. Basically it manage the mailing and registration system.
 
